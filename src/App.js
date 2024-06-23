@@ -1,5 +1,5 @@
 import React, { useContext } from 'react';
-import { BrowserRouter as Router } from 'react-router-dom';
+import { HashRouter as Router } from 'react-router-dom';
 import AnimRoutes from './components/AnimRoutes';
 import Header from './components/Header';
 import { motion } from 'framer-motion';
